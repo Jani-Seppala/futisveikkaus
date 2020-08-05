@@ -15,7 +15,7 @@ namespace AspNetCoreBackend
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        // testi git muutokseen
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
