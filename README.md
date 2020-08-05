@@ -12,3 +12,4 @@ Python 3, Html, Css, Bootstrap 4, JavaScript, SQLite, Jinja 2. Kehikkona Django,
 
 testia uutta committia
 lisää testiä
+fasfasafsasf
