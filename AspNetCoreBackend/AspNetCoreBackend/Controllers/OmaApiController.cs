@@ -30,5 +30,17 @@ namespace AspNetCoreBackend.Controllers
             return new string[] { "tietokone", "näyttö", "näppäimistö" };
         }
 
+
+        [Route("satunnainen")]
+        public int Satunnaisluku()
+        {
+            Random random = new Random();
+            int luku = random.Next(1, 20);
+            return luku;
+
+
+
+
+        }
     }
 }  
