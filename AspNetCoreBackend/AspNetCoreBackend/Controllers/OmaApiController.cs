@@ -24,5 +24,11 @@ namespace AspNetCoreBackend.Controllers
             return "tietokone";
         }
 
-    }   
+        [Route("merkkijonot")]
+        public string[] Merkkijonot()
+        {
+            return new string[] { "tietokone", "näyttö", "näppäimistö" };
+        }
+
+    }
 }  
