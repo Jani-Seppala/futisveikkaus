@@ -9,3 +9,5 @@ Web appsi jalkapallon arvokisojen pistelaskuun. Tarkoitus järjestää kaveripor
 Tarvittavat tekniikat:
 
 Python 3, Html, Css, Bootstrap 4, JavaScript, SQLite, Jinja 2. Kehikkona Django, kehitysympäristönä PyCharm.
+
+testia uutta committia
